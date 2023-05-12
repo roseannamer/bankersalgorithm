@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\bin\Debug\netcoreapp3.1\OSassignment.exe
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\bin\Debug\netcoreapp3.1\OSassignment.deps.json
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\bin\Debug\netcoreapp3.1\OSassignment.runtimeconfig.json
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\bin\Debug\netcoreapp3.1\OSassignment.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\bin\Debug\netcoreapp3.1\OSassignment.dll
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\bin\Debug\netcoreapp3.1\OSassignment.pdb
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.Form1.resources
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.Form2.resources
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.dll
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.pdb
+C:\Users\LENOVO\source\repos\OSassignment\OSassignment\obj\Debug\netcoreapp3.1\OSassignment.genruntimeconfig.cache
