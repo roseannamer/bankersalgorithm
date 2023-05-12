@@ -1,7 +1,6 @@
 # bankersalgorithm
 banker's algorithm
-Roseann Osama
-19104483
+
 markdown for the code:
 
 form1:
